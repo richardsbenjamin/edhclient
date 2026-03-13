@@ -68,5 +68,3 @@ class EDHClient:
     def read_pressure_levels(self) -> xr.Dataset:
         return self._read_edh(edh_config.PRESSURE_LEVELS)
 
-
-edh_client = EDHClient()
