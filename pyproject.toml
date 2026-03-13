@@ -12,6 +12,8 @@ dependencies = [
     "xarray",
     "zarr",
     "fsspec",
+    "requests",
+    "aiohttp",
 ]
 
 [tool.setuptools.packages.find]
