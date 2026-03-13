@@ -1,5 +1,5 @@
 [auth]
-HOST = "https://data.earthdatahub.destine.eu"
+HOST = "data.earthdatahub.destine.eu"
 USERNAME = "edh"
 
 [datasets]
