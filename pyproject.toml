@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "edhclient"
 version = "0.1.0"
 description = "Client for EDH"
-requires-python = ">=3.11"
+requires-python = ">=3.10.4"
 dependencies = [
     "python-dotenv",
     "xarray",
