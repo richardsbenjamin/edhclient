@@ -1,0 +1,7 @@
+[auth]
+HOST = "https://data.earthdatahub.destine.eu"
+USERNAME = "edh"
+
+[datasets]
+SINGLE_LEVELS = "era5/reanalysis-era5-single-levels-v0.zarr"
+PRESSURE_LEVELS = "era5/reanalysis-era5-pressure-levels-v0.zarr"
