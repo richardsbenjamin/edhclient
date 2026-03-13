@@ -11,6 +11,7 @@ dependencies = [
     "python-dotenv",
     "xarray",
     "zarr",
+    "fsspec",
 ]
 
 [tool.setuptools.packages.find]
